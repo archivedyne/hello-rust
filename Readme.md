@@ -1,0 +1,4 @@
+```
+rustc hello.rs
+./hello
+```
